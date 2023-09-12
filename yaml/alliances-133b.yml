@@ -1,0 +1,110 @@
+---
+object: card
+id: 9de5e730-1d5c-4326-b3fc-2f0f97edc07e
+oracle_id: 935728dd-ad97-47a9-97ca-068af7960d07
+multiverse_ids:
+- 3062
+tcgplayer_id: 81847
+cardmarket_id: 8030
+name: Soldevi Steam Beast
+lang: en
+released_at: '1996-06-10'
+uri: https://api.scryfall.com/cards/9de5e730-1d5c-4326-b3fc-2f0f97edc07e
+scryfall_uri: https://scryfall.com/card/all/133b/soldevi-steam-beast?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/d/9de5e730-1d5c-4326-b3fc-2f0f97edc07e.jpg?1575874846
+  normal: https://cards.scryfall.io/normal/front/9/d/9de5e730-1d5c-4326-b3fc-2f0f97edc07e.jpg?1575874846
+  large: https://cards.scryfall.io/large/front/9/d/9de5e730-1d5c-4326-b3fc-2f0f97edc07e.jpg?1575874846
+  png: https://cards.scryfall.io/png/front/9/d/9de5e730-1d5c-4326-b3fc-2f0f97edc07e.png?1575874846
+  art_crop: https://cards.scryfall.io/art_crop/front/9/d/9de5e730-1d5c-4326-b3fc-2f0f97edc07e.jpg?1575874846
+  border_crop: https://cards.scryfall.io/border_crop/front/9/d/9de5e730-1d5c-4326-b3fc-2f0f97edc07e.jpg?1575874846
+mana_cost: "{5}"
+cmc: 5.0
+type_line: Artifact Creature — Beast
+oracle_text: |-
+  Whenever Soldevi Steam Beast becomes tapped, target opponent gains 2 life.
+  {2}: Regenerate Soldevi Steam Beast.
+power: '4'
+toughness: '2'
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 64987b06-4a5c-443d-b560-ff5691744582
+set: all
+set_name: Alliances
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/64987b06-4a5c-443d-b560-ff5691744582
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aall&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/all?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/9de5e730-1d5c-4326-b3fc-2f0f97edc07e/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A935728dd-ad97-47a9-97ca-068af7960d07&unique=prints
+collector_number: 133b
+digital: false
+rarity: common
+flavor_text: |-
+  "Nothing has ever broken my heart so much as this—the betrayal of Soldev by my beloved machines!"
+  —Arcum Dagsson, Soldevi Machinist
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Bill Sienkiewicz
+artist_ids:
+- c1a9ecfb-1440-4579-adfb-bd10095dd690
+illustration_id: 597de254-c245-441b-b7c0-dbf6ac2dcb0a
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 24821
+prices:
+  usd: '0.10'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.20'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3062
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Soldevi+Steam+Beast&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Soldevi+Steam+Beast&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Soldevi+Steam+Beast
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/81847?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Soldevi+Steam+Beast&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Soldevi+Steam+Beast&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

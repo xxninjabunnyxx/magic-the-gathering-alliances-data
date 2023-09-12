@@ -1,0 +1,109 @@
+---
+object: card
+id: ec7d7c80-4e3c-454e-b2ed-6f0436df19c9
+oracle_id: c8e96a51-24c9-4955-8bf0-6ef448fa8011
+multiverse_ids:
+- 3167
+tcgplayer_id: 4120
+cardmarket_id: 7954
+name: Chaos Harlequin
+lang: en
+released_at: '1996-06-10'
+uri: https://api.scryfall.com/cards/ec7d7c80-4e3c-454e-b2ed-6f0436df19c9
+scryfall_uri: https://scryfall.com/card/all/69/chaos-harlequin?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/c/ec7d7c80-4e3c-454e-b2ed-6f0436df19c9.jpg?1562770655
+  normal: https://cards.scryfall.io/normal/front/e/c/ec7d7c80-4e3c-454e-b2ed-6f0436df19c9.jpg?1562770655
+  large: https://cards.scryfall.io/large/front/e/c/ec7d7c80-4e3c-454e-b2ed-6f0436df19c9.jpg?1562770655
+  png: https://cards.scryfall.io/png/front/e/c/ec7d7c80-4e3c-454e-b2ed-6f0436df19c9.png?1562770655
+  art_crop: https://cards.scryfall.io/art_crop/front/e/c/ec7d7c80-4e3c-454e-b2ed-6f0436df19c9.jpg?1562770655
+  border_crop: https://cards.scryfall.io/border_crop/front/e/c/ec7d7c80-4e3c-454e-b2ed-6f0436df19c9.jpg?1562770655
+mana_cost: "{2}{R}{R}"
+cmc: 4.0
+type_line: Creature — Human
+oracle_text: "{R}: Exile the top card of your library. If that card is a land card,
+  Chaos Harlequin gets -4/-0 until end of turn. Otherwise, Chaos Harlequin gets +2/+0
+  until end of turn."
+power: '2'
+toughness: '4'
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: true
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 64987b06-4a5c-443d-b560-ff5691744582
+set: all
+set_name: Alliances
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/64987b06-4a5c-443d-b560-ff5691744582
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aall&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/all?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/ec7d7c80-4e3c-454e-b2ed-6f0436df19c9/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac8e96a51-24c9-4955-8bf0-6ef448fa8011&unique=prints
+collector_number: '69'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Alan Rabinowitz
+artist_ids:
+- 8562e6e1-f7f3-499e-8309-cc5775b37847
+illustration_id: c5fda921-50d3-4776-a9af-2e3587d24956
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 23706
+prices:
+  usd: '0.38'
+  usd_foil: 
+  usd_etched: 
+  eur: '1.00'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3167
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Chaos+Harlequin&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Chaos+Harlequin&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Chaos+Harlequin
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/4120?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Chaos+Harlequin&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Chaos+Harlequin&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,109 @@
+---
+object: card
+id: 328e6ceb-30f7-415e-93b4-7075af0fed89
+oracle_id: '02197d14-8d9f-4b1f-9ee0-ce8ef690843c'
+multiverse_ids:
+- 3217
+tcgplayer_id: 4263
+cardmarket_id: 8004
+name: Sworn Defender
+lang: en
+released_at: '1996-06-10'
+uri: https://api.scryfall.com/cards/328e6ceb-30f7-415e-93b4-7075af0fed89
+scryfall_uri: https://scryfall.com/card/all/19/sworn-defender?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/2/328e6ceb-30f7-415e-93b4-7075af0fed89.jpg?1562768240
+  normal: https://cards.scryfall.io/normal/front/3/2/328e6ceb-30f7-415e-93b4-7075af0fed89.jpg?1562768240
+  large: https://cards.scryfall.io/large/front/3/2/328e6ceb-30f7-415e-93b4-7075af0fed89.jpg?1562768240
+  png: https://cards.scryfall.io/png/front/3/2/328e6ceb-30f7-415e-93b4-7075af0fed89.png?1562768240
+  art_crop: https://cards.scryfall.io/art_crop/front/3/2/328e6ceb-30f7-415e-93b4-7075af0fed89.jpg?1562768240
+  border_crop: https://cards.scryfall.io/border_crop/front/3/2/328e6ceb-30f7-415e-93b4-7075af0fed89.jpg?1562768240
+mana_cost: "{2}{W}{W}"
+cmc: 4.0
+type_line: Creature — Human Knight
+oracle_text: "{1}: Sworn Defender's power becomes the toughness of target creature
+  blocking or being blocked by Sworn Defender minus 1 until end of turn, and Sworn
+  Defender's toughness becomes 1 plus the power of that creature until end of turn."
+power: '1'
+toughness: '3'
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: true
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 64987b06-4a5c-443d-b560-ff5691744582
+set: all
+set_name: Alliances
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/64987b06-4a5c-443d-b560-ff5691744582
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aall&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/all?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/328e6ceb-30f7-415e-93b4-7075af0fed89/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A02197d14-8d9f-4b1f-9ee0-ce8ef690843c&unique=prints
+collector_number: '19'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: D. Alexander Gregory
+artist_ids:
+- 38433e15-f0f5-4223-a985-2d13c4aa0922
+illustration_id: dbfed80e-4369-414d-94e6-7ccce7a74b28
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 23195
+prices:
+  usd: '0.70'
+  usd_foil: 
+  usd_etched: 
+  eur: '1.00'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3217
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Sworn+Defender&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Sworn+Defender&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Sworn+Defender
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/4263?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sworn+Defender&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sworn+Defender&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

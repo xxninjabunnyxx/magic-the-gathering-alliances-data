@@ -1,0 +1,18 @@
+---
+object: set
+id: 64987b06-4a5c-443d-b560-ff5691744582
+code: all
+tcgplayer_id: 6
+name: Alliances
+uri: https://api.scryfall.com/sets/64987b06-4a5c-443d-b560-ff5691744582
+scryfall_uri: https://scryfall.com/sets/all
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aall&unique=prints
+released_at: '1996-06-10'
+set_type: expansion
+card_count: 199
+digital: false
+nonfoil_only: true
+foil_only: false
+block_code: ice
+block: Ice Age
+icon_svg_uri: https://svgs.scryfall.io/sets/all.svg?1694404800

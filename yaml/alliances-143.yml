@@ -1,0 +1,111 @@
+---
+object: card
+id: 8dbda146-ed0a-4bf6-b99d-dc6d59bd9447
+oracle_id: 5baa7abe-5bdf-40ce-9a83-a93b7cae71a3
+multiverse_ids:
+- 3237
+tcgplayer_id: 4237
+cardmarket_id: 8040
+name: Soldevi Excavations
+lang: en
+released_at: '1996-06-10'
+uri: https://api.scryfall.com/cards/8dbda146-ed0a-4bf6-b99d-dc6d59bd9447
+scryfall_uri: https://scryfall.com/card/all/143/soldevi-excavations?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/d/8dbda146-ed0a-4bf6-b99d-dc6d59bd9447.jpg?1624811917
+  normal: https://cards.scryfall.io/normal/front/8/d/8dbda146-ed0a-4bf6-b99d-dc6d59bd9447.jpg?1624811917
+  large: https://cards.scryfall.io/large/front/8/d/8dbda146-ed0a-4bf6-b99d-dc6d59bd9447.jpg?1624811917
+  png: https://cards.scryfall.io/png/front/8/d/8dbda146-ed0a-4bf6-b99d-dc6d59bd9447.png?1624811917
+  art_crop: https://cards.scryfall.io/art_crop/front/8/d/8dbda146-ed0a-4bf6-b99d-dc6d59bd9447.jpg?1624811917
+  border_crop: https://cards.scryfall.io/border_crop/front/8/d/8dbda146-ed0a-4bf6-b99d-dc6d59bd9447.jpg?1624811917
+mana_cost: ''
+cmc: 0.0
+type_line: Land
+oracle_text: |-
+  If Soldevi Excavations would enter the battlefield, sacrifice an untapped Island instead. If you do, put Soldevi Excavations onto the battlefield. If you don't, put it into its owner's graveyard.
+  {T}: Add {C}{U}.
+  {1}, {T}: Scry 1.
+colors: []
+color_identity:
+- U
+keywords:
+- Scry
+produced_mana:
+- C
+- U
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: true
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 64987b06-4a5c-443d-b560-ff5691744582
+set: all
+set_name: Alliances
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/64987b06-4a5c-443d-b560-ff5691744582
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aall&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/all?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/8dbda146-ed0a-4bf6-b99d-dc6d59bd9447/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5baa7abe-5bdf-40ce-9a83-a93b7cae71a3&unique=prints
+collector_number: '143'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Liz Danforth
+artist_ids:
+- 5a5ee217-9d28-419a-b92a-a2376c7d18b3
+illustration_id: edbab397-e400-4425-b95c-4444c208f132
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 10395
+prices:
+  usd: '19.03'
+  usd_foil: 
+  usd_etched: 
+  eur: '8.62'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3237
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Soldevi+Excavations&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Soldevi+Excavations&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Soldevi+Excavations
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/4237?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Soldevi+Excavations&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Soldevi+Excavations&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
